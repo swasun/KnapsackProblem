@@ -3,7 +3,7 @@ A program that computes the Knapsack problem using branch-and-bound (fractional 
 ## Usage
 
 ```
-mkdir obj && mkdir bin
+mkdir obj && mkdir bin && make
 ./bin/knapsack --help
 
 Usage: ./bin/knapsack --help | --tests | <file_name>
