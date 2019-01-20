@@ -114,3 +114,8 @@ Variables and nodes:
 
 [...]
 ```
+
+## Authors
+
+* Charly LAMOTHE
+* Doulkifouli ABDALLAH-ALI
