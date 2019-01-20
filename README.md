@@ -1,4 +1,4 @@
-A program that compute the Knapsack problem using branch-and-bound (fractional method) (School Project, Algorithmic and Operations Reseach class, 2017).
+A program that computes the Knapsack problem using branch-and-bound (fractional method) (School Project, Algorithmic and Operations Reseach class, 2017).
 
 ## Usage
 
