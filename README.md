@@ -117,5 +117,5 @@ Variables and nodes:
 
 ## Authors
 
-* Charly LAMOTHE
-* Doulkifouli ABDALLAH-ALI
+* Charly Lamothe
+* Doulkifouli Abdallah-Ali
